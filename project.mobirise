@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Site-05-21_1643",
-    "currentPage": "page3.html",
+    "currentPage": "projects-graphicdesign.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -2715,9 +2715,9 @@
         }
       ]
     },
-    "page3.html": {
+    "projects-graphicdesign.html": {
       "settings": {
-        "meta_descr": "Web Page Builder Description",
+        "meta_descr": "Graphic Design",
         "title": "Projects - Graphic Design",
         "order": 1
       },
